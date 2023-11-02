@@ -2,6 +2,6 @@
 
 ## Select method
 
-> [**UI Editor**](https://github.com/xameronn/ReTextureDev/blob/newStructure/docs/uiCreate.md)
+> [**UI Editor**](https://github.com/xameronn/ReTexture/blob/main/docs/uiCreate.md)
 
-> [**Manual**](https://github.com/xameronn/ReTextureDev/blob/newStructure/docs/manualCreate.md)
+> [**Manual**](https://github.com/xameronn/ReTexture/blob/main/docs/manualCreate.md)

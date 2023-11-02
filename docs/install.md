@@ -3,6 +3,7 @@
 ## 1. Download
 > [!IMPORTANT]
 > Resource packs can be found on the [**KSL platform**](https://discord.com/channels/716264804498538516/1169338345143414826)
+
 ![download](./images/download.png)
 
 ## 2. Open 'resourcepacks' folder
