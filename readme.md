@@ -1,5 +1,5 @@
-[![Releases](https://img.shields.io/github/v/release/xameronn/ReTexture?include_prereleases&label=DOWNLOAD&style=for-the-badge)](https://github.com/xameronn/RePartcher/releases)
-[![KSL Loader](https://img.shields.io/github/v/release/trbflxr/kino?label=KSL%20LOADER&style=for-the-badge)](https://github.com/trbflxr/ksl)
+[![Releases](https://img.shields.io/github/v/release/xameronn/ReTexture?include_prereleases&label=DOWNLOAD&style=for-the-badge)](https://github.com/xameronn/ReTexture/releases/latest)
+[![KSL Loader](https://img.shields.io/github/v/release/trbflxr/ksl?label=KSL%20LOADER&style=for-the-badge)](https://github.com/trbflxr/ksl)
 [![Support](https://img.shields.io/badge/patreon-support-ff424d?style=for-the-badge)](https://www.patreon.com/xameron)
 
 ## About
@@ -15,7 +15,7 @@
 ## Installation
 * Install [KSL Loader](https://github.com/trbflxr/ksl/blob/master/doc/guide/install.md)
 * Download [latest version](https://github.com/xameronn/ReTexture/releases/latest)
-* Install plugin [guide](https://github.com/trbflxr/ksl/blob/master/doc/guide/install_content.md)
+* Install [guide](https://github.com/trbflxr/ksl/blob/master/doc/guide/install_content.md)
 
 ## Help
 * [Install resourcepack](https://github.com/xameronn/ReTexture/blob/main/docs/install.md)
