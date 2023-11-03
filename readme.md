@@ -12,11 +12,8 @@
 * **Format support:** Resource packs use the textures in PNG/JPG/PSD formats.
 * **Texture dump:** Allows to dump all the available textures from the map/cars.
 
-## Installation
-* [Install KSL Loader](https://github.com/trbflxr/ksl/blob/master/doc/guide/install.md)
-* [Install mod guide](https://github.com/xameronn/ReTexture/blob/main/docs/installmod.md)
-
 ## Help
+* [Install mod guide](https://github.com/xameronn/ReTexture/blob/main/docs/installmod.md)
 * [Install resourcepack](https://github.com/xameronn/ReTexture/blob/main/docs/install.md)
 * [Create resourcepack](https://github.com/xameronn/ReTexture/blob/main/docs/create.md)
 * [Dump textures](https://github.com/xameronn/ReTexture/blob/main/docs/dump.md)
