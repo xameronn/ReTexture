@@ -1,7 +1,6 @@
 # Installation mod guide
 
-## 1. [Download latest version](https://github.com/xameronn/ReTexture/releases/latest/download/retexture.zip)
-[Latest release](https://github.com/xameronn/ReTexture/releases/latest)
+## 1. [Download latest version](https://github.com/xameronn/ReTexture/releases/latest)
 
 ![releases](./images/releases.png)
 
