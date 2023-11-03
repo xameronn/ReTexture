@@ -13,9 +13,8 @@
 * **Texture dump:** Allows to dump all the available textures from the map/cars.
 
 ## Installation
-* Install [KSL Loader](https://github.com/trbflxr/ksl/blob/master/doc/guide/install.md)
-* Download [latest version](https://github.com/xameronn/ReTexture/releases/latest)
-* Install [guide](https://github.com/trbflxr/ksl/blob/master/doc/guide/install_content.md)
+* [Install KSL Loader](https://github.com/trbflxr/ksl/blob/master/doc/guide/install.md)
+* [Install mod guide](https://github.com/xameronn/ReTexture/blob/main/docs/installmod.md)
 
 ## Help
 * [Install resourcepack](https://github.com/xameronn/ReTexture/blob/main/docs/install.md)
